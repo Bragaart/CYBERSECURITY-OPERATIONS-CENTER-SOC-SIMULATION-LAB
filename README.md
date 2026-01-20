@@ -3,8 +3,7 @@
 # 🎯 Visão Geral  
   
 ### 📑 SOBRE O PROJETO  
-Este repositório documenta minha jornada de especialização como Analista de SOC (Security Operations Center), utilizando os laboratórios avançados da plataforma HACKONE. O foco principal é o desenvolvimento de competências em monitoramento, triagem de eventos, análise de vulnerabilidades e resposta a incidentes em ambientes corporativos simulados.
-
+Este repositório documenta minha jornada de especialização como Analista de SOC (Security Operations Center), utilizando os laboratórios avançados da plataforma HACKONE. O foco principal é o desenvolvimento de competências em monitoramento, triagem de eventos, análise de vulnerabilidades e resposta a incidentes em ambientes corporativos simulados.  
 ### 🕵 OBJETIVO DO TREINAMENTO  
 Capacitação técnica no ciclo de vida de incidentes de segurança, desde a detecção inicial através de SIEM/XDR até a contenção e erradicação de ameaças, seguindo os frameworks NIST e MITRE ATT&CK.
 
@@ -28,6 +27,7 @@ Endpoints: Servidores Linux e Windows configurados para envio de telemetria em t
 Visibilidade: Fluxo de dados centralizado via túneis VPN IPsec para a plataforma de análise Securityone.  
 
                                                      DASHBOARD do SIEM  
+                                                     
 ![](SIEM.hackone.png)  
 
 ---
