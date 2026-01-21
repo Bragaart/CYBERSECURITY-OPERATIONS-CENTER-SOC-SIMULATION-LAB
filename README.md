@@ -35,27 +35,64 @@ Visibilidade: Fluxo de dados centralizado via túneis VPN IPsec para a plataform
 ---  
 ## Laboratório 1 - Reconhecimento de Ameaça, Severidade e Impacto
 
-### 📌 Objetivo do laboratório  
+### 📌 Objetivo do laboratório 1 
 Identificar o incidente #81  Responder as seguintes perguntas:  
 
 ---  
-> Qual é o nível de severidade desse incidente?    
+> Qual é o nível de severidade desse incidente?  
 > Qual o Tipo de ameaça desse incidente?  
 > Qual é o impacto que esse incidente representa?  
-> O que é o serviço de SSH citado?   
+> O que é o serviço de SSH citado?  
 ---
 ![](%2381%20Brute%20Force%20SIEM%20p1.png)
 ![](%2381%20Brute%20Force%20SIEM%20p2.png)
 
 ### 🚨 Diagnóstico  
 ---
+<details> <summary><b>Qual o Tipo de ameaça desse incidente?</b></summary>
 
-> A severidade apresentada é Alta.  
-> A ameaça no inicidente 81 é um ataque de brute force no SSH.  
-> Apresenta múltiplos riscos que vão desde exposição de dados sensíveis, Indisponibilidade (DoS),Movimentação Lateral ou mesmo Comprometimento de Credenciais.  
-> O SSH (Secure Shell) é um protocolo de rede que permite a comunicação e a administração remota de sistemas de forma criptografada.
+Resposta: A ameaça no incidente 81 é um ataque de brute force no SSH.
+
+</details>
+
+<details> <summary><b>Qual é o nível de severidade desse incidente?</b></summary>
+
+Resposta: A severidade apresentada é Alta.
+
+</details>
+
+<details> <summary><b>Qual é o impacto que esse incidente representa?</b></summary>
+
+Resposta: Apresenta múltiplos riscos que vão desde exposição de dados sensíveis, Indisponibilidade (DoS), Movimentação Lateral ou mesmo Comprometimento de Credenciais.
+
+</details>
+
+<details> <summary><b>O que é o serviço de SSH citado?</b></summary>
+
+Resposta: O SSH (Secure Shell) é um protocolo de rede que permite a comunicação e a administração remota de sistemas de forma criptografada.
+
+</details>  
+
+---  
+## Laboratório 2 -  Análise das informações geradas por IA   
+
+### 📌 Objetivo do laboratório 2  
+Identificar o incidente #90  Responder as seguintes perguntas:
+
+---
+> Quem é o Autor do incidente  
+> Você acha que esse autor é um humano ou uma IA ? 
 ---
 
+FOTO
+
+### 🚨 Diagnóstico 
+
+
+
+
+
+  
 
 
 
