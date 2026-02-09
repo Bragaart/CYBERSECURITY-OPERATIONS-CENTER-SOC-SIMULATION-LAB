@@ -80,16 +80,30 @@ Resposta: O SSH (Secure Shell) é um protocolo de rede que permite a comunicaç�
 Identificar o incidente #90  Responder as seguintes perguntas:
 
 ---
-> Quem é o Autor do incidente  
+> Quem é o autor do incidente ?   
 > Você acha que esse autor é um humano ou uma IA ? 
 ---
 
-FOTO
+
+![](Laboratorio%2390p1.png)
+![](Laboratorio%2390p2.png) 
+
 
 ### 🚨 Diagnóstico 
+---  
+<details> <summary><b>Quem é o autor do incidente ?</b></summary>
 
+Resposta: suspicious-mail.example.com.
 
+</details>
 
+<details> <summary><b>Você acha que esse autor é um humano ou uma IA ?</b></summary>
+
+Resposta: A escolha das vitimas foi realizada por um humano, já o envio do phishing foi realizado por um script, enquanto a detecção foi realizada por uma IA.
+
+</details> 
+
+---
 
 
   
